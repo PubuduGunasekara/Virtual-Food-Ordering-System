@@ -1,3 +1,49 @@
+# Virtual Food Ordering System
+
+## Overview
+
+The Virtual Food Ordering System project, associated with Victoria University, introduces an innovative web solution that successfully replaces the manual food ordering system at NSBM Green University. This project focuses on transforming the way faculty and staff order meals, emphasizing operational efficiency and user experience.
+
+## Key Achievements
+
+- Victorious participation in the first-ever code camp overnight web development competition.
+- Leadership demonstrated in winning the competition and leading the development of the Virtual Food Ordering System.
+
+## Key Features
+
+### For Users:
+
+- **Secure Login**
+- **Department selection**
+- **Food preference (Veg/NonVeg) choice**
+- **Meal option selection**
+- **Order restrictions after 12 o'clock**
+
+### For Administrators:
+
+- **Secure login for administrators**
+- **Addition of service providers**
+- **Generation of order lists**
+- **Daily, weekly, and monthly PDF reports**
+- **Budget calculation functionalities**
+
+## Technologies Used
+
+- MySQL
+- PHP
+- JavaScript
+- HTML5
+- CSS
+- Bootstrap (Framework)
+
+## Impact
+
+The Virtual Food Ordering System streamlines the ordering process for users and provides administrators with robust tools for efficient service management and budget tracking. This project represents a significant step forward in improving operational efficiency and enhancing the overall experience of food services at NSBM Green University.
+
+
+---
+
+
 # Maintenance Management System
 
 ## Overview
@@ -45,46 +91,5 @@ The Maintenance Management System project, associated with Victoria University, 
 
 The Maintenance Management System streamlines the user experience in reporting issues and equips administrators with robust tools for efficient service and inventory management. This project marks a substantial leap forward in augmenting operational efficiency and elevating the overall maintenance management experience at NSBM Green University.
 
----
 
-# Virtual Food Ordering System
 
-## Overview
-
-The Virtual Food Ordering System project, associated with Victoria University, introduces an innovative web solution that successfully replaces the manual food ordering system at NSBM Green University. This project focuses on transforming the way faculty and staff order meals, emphasizing operational efficiency and user experience.
-
-## Key Achievements
-
-- Victorious participation in the first-ever code camp overnight web development competition.
-- Leadership demonstrated in winning the competition and leading the development of the Virtual Food Ordering System.
-
-## Key Features
-
-### For Users:
-
-- **Secure Login**
-- **Department selection**
-- **Food preference (Veg/NonVeg) choice**
-- **Meal option selection**
-- **Order restrictions after 12 o'clock**
-
-### For Administrators:
-
-- **Secure login for administrators**
-- **Addition of service providers**
-- **Generation of order lists**
-- **Daily, weekly, and monthly PDF reports**
-- **Budget calculation functionalities**
-
-## Technologies Used
-
-- MySQL
-- PHP
-- JavaScript
-- HTML5
-- CSS
-- Bootstrap (Framework)
-
-## Impact
-
-The Virtual Food Ordering System streamlines the ordering process for users and provides administrators with robust tools for efficient service management and budget tracking. This project represents a significant step forward in improving operational efficiency and enhancing the overall experience of food services at NSBM Green University.
